@@ -1,0 +1,9 @@
+# Site settings
+title: textual
+description: type and typography
+
+# Build settings
+markdown: kramdown
+exclude: ["README.md"]
+sass:
+  style: compressed
