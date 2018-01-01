@@ -1,7 +1,7 @@
 ---
 layout: downloads
-family-name: Stick No Bills
-version: v1.220
-link: https://github.com/mooniak/post-no-bills-font/releases/download/1.220/post-no-bills-font_v1.220_20170216.zip
-size: 791kb
+family-name: Abhaya Libre
+version: v1.060
+link: https://github.com/mooniak/abhaya-libre-font/releases/download/v1.060/abhaya-libre-font_v1.060_20170212.zip
+size: 707kb
 ---
