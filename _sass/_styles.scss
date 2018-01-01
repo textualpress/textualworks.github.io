@@ -251,11 +251,54 @@ background-size: contain;
  -webkit-box-shadow: 2px 3px 5px -1px rgba(176,174,176,1);
 -moz-box-shadow: 2px 3px 5px -1px rgba(176,174,176,1);
 box-shadow: 2px 3px 5px -1px rgba(176,174,176,1);
-    transform: rotate(2deg);
+    transform: rotate(-2deg);
 }
 
 
+.highlight-box{
+  border: 1px solid;
+padding: 15px 30px 30px 30px;
+margin: 25px 0px 25px 0px;
+display: block;
+background-size: contain;
+}
 
+#mce-EMAIL, #mce-FNAME, #mce-LNAME{
+  width: 80%;
+padding: 20px 30px;
+  margin:  10px auto;
+  display: block;
+  background-size: contain;
+  -o-transition:.5s;
+   -ms-transition:.5s;
+   -moz-transition:.5s;
+   -webkit-transition:.5s;
+   -webkit-box-shadow: 2px 3px 5px -1px rgba(176,174,176,1);
+  -moz-box-shadow: 2px 3px 5px -1px rgba(176,174,176,1);
+  box-shadow: 2px 3px 5px -1px rgba(176,174,176,1);
+
+}
+
+#mc-embedded-subscribe{
+  width: 40%;
+padding: 20px;
+background: #ffdc61;
+margin: 20px auto 0px auto;
+  display: block;
+  background-size: contain;
+  -o-transition:.5s;
+   -ms-transition:.5s;
+   -moz-transition:.5s;
+   -webkit-transition:.5s;
+
+
+
+}
+
+#mc-embedded-subscribe:hover{
+color: red;
+background: #ffec1e;
+}
 
 #projects {
     padding-left: 0rem;
