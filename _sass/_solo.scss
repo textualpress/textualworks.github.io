@@ -13,7 +13,6 @@ html {
 body {
   margin: 2rem 0 5rem;
   color: #3b3636;
-   background: #fffff7;
 //    font-family: 'Moonface';
 }
 
@@ -23,14 +22,7 @@ body {
   }
 }
 
-a {
-  color: #f4581f; /* From http://clrs.cc */
-  text-decoration: none;
-      font-variant-caps: small-caps;
-  -moz-font-feature-settings: "smcp";
-  -webkit-font-feature-settings: "smcp";
-  font-feature-settings: "smcp";
-}
+
 
 a:hover, a:focus {
   text-decoration: underline;
