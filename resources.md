@@ -17,7 +17,6 @@ Text analysis tools for font designers
 ### [fontester](https://github.com/textualworks/fontester)
 HTML font testing tool
 
-
 ***
 
 ## Research
